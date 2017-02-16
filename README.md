@@ -15,7 +15,7 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * https://github.com/matthiaslein/WellFARe-STO/blob/master/wellfareSTO.py
 * Analytical implementation of MNDO two-electron integrals
   * MiniAMBER code
-* Fock-matrix assembly
+* Fock-matrix assembly for CNDO, MNDO, AM1/PM3/PM6/PM7, etc
   * Should be easy to write
 * Exact diagonalization (LAPACK) and pseudo-diagonalization
   * Exact diagonalizer from MKL or LibElemental, pseudo diagonalizer from AMBER?
@@ -39,6 +39,12 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * ??
 * (Analytical Hessian?)
   * ??
+
+## Corrections:
+* Dispersion D3
+  * Stefan Grimme
+* H+
+  * Jimmy's kode
 
 ## Optimizer:
 * Find out which optimizer is used in Gaussian, Gamess, etc
