@@ -36,6 +36,9 @@ For desired every capability add a bullet point, with sub-bullet points with ref
 ## Optimizer:
 * Find out which optimizer is used in Gaussian, Gamess, etc
   * ??
+* TS optimizer:
+  * GSM
+  * Optimize to transition state (e.g. QST2/QST3)?
 
 ## Solvent:
 * PCM (which version?)
