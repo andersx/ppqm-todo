@@ -52,3 +52,9 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * ??
 * COSMO/COSMO-RS
   * ??
+  
+# Fragmentation:
+* Which scheme?
+  * FMO?
+  * ??
+
