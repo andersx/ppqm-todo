@@ -17,6 +17,7 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * MiniAMBER code
 * Fock-matrix assembly for NDDO, CNDO, MNDO, AM1/PM3/PM6/PM7, etc
   * Should be easy to write (just to clarify, Andersx wrote that. Famous last words)
+  * RHF and UHF type wave functions
 * Exact diagonalization (LAPACK) and pseudo-diagonalization
   * Exact diagonalizer from MKL or LibElemental, pseudo diagonalizer from AMBER?
 * _Stable_ SCF convergers (Quadratic, DIIS, etc)
@@ -33,6 +34,7 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * AMBER 
 * Fock-matrix assembly
   * Should be easy to write
+  * Spin-polarized/open-shell DFTB
 * Mixers (Anderson/DIIS/Broyden)
   * ??
 * Analytical first derivative (i.e. gradient)
