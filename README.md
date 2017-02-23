@@ -8,6 +8,8 @@ For desired every capability add a bullet point, with sub-bullet points with ref
    
 * One-executable
    * For normal use and non-experts, use one executable with a input file
+   
+* Improved parametrization for biomolecules and drugs
  
 ## NDDO/MNDO capabilities:
 
@@ -68,3 +70,12 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * FMO?
   * Linear-scaling sparse matrix?
 
+## Parametrization:
+* Review of semiempirical approximation
+  * https://www.overleaf.com/read/rdrcfqpckpbk
+* Construction of dataset from CCSD(T)
+  * Identify relevant molecules from ZINC database of GDB\* database
+  * Heats-of-formation dataset
+  * Non-covalent interactions dataset
+  * Reaction barriers
+  * Rotational barriers
