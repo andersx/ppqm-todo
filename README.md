@@ -54,6 +54,8 @@ For desired every capability add a bullet point, with sub-bullet points with ref
 * TS optimizer:
   * GSM
   * Optimize to transition state (e.g. QST2/QST3)?
+* Use Python optimizers (with fortran bindings) to test different optimizers
+
 
 ## Solvent:
 * PCM (which version?)
