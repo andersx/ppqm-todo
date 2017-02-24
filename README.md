@@ -71,10 +71,10 @@ For desired every capability add a bullet point, with sub-bullet points with ref
   * Linear-scaling sparse matrix?
 
 ## Parametrization:
-* Review of semiempirical approximation
+* Review of semiempirical approximations
   * https://www.overleaf.com/read/rdrcfqpckpbk
 * Construction of dataset from CCSD(T)
-  * Identify relevant molecules from ZINC database of GDB\* database
+  * Identify relevant molecules from ZINC database or GDB\* database
   * Heats-of-formation dataset
   * Non-covalent interactions dataset
   * Reaction barriers
