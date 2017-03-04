@@ -12,11 +12,14 @@ For desired every capability add a bullet point, with sub-bullet points with ref
 * Improved parametrization for biomolecules and drugs
  
 ## Check of Semiempirical approximation
-
- * Parameterize OMx
-
- * Parameterize PM6
-    http://openmopac.net/Manual/external.html
+ * Step one is reparametrization of available SQM methods using *existing* dataset of MP2 heat-of-formation for GDB7, GDB8 or GDB9 datasets. We aim to re-parametrize the following methods:
+   * MNDO - the baseline method
+   * MNDO/d - MNDO with d-orbitals
+   * MNDOC - MNDO with BWEN perturbation theory correlation term
+   * AM1 - MNDO with additional core-repulsion terms
+   * PM6 - Same as AM1, but pairwise core-repulsion terms http://openmopac.net/Manual/external.html
+   * OMx - Orthogonalization corrected method
+   * Modified OMx - Disable orthogonalization correction and compare effect of gaussian/ECP integrals with MNDO multipole integrals.
  
 ## NDDO/MNDO capabilities:
 
