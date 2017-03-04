@@ -11,6 +11,13 @@ For desired every capability add a bullet point, with sub-bullet points with ref
    
 * Improved parametrization for biomolecules and drugs
  
+## Check of Semiempirical approximation
+
+ * Parameterize OMx
+
+ * Parameterize PM6
+    http://openmopac.net/Manual/external.html
+ 
 ## NDDO/MNDO capabilities:
 
 * Analytical implementation of overlap integrals
