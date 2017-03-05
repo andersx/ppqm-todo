@@ -1,13 +1,17 @@
 
 # Tier 1, Minimal Functionality to be public
 
-* Gaussian integrals in NDDO
+Single point calculations
+
+* Gaussian integrals
 * Huckel Guess
-* Fock matrix assembly
+* Fock matrix assembly in NDDO
 * SCF
 
 
 # Tier 2, Minimal to be useful
+
+Gradient and optimizations
 
 * Gradient
 * Use Python/Numpy/SciPy for optimize algorithm
