@@ -25,4 +25,8 @@
 
     => send parameter file to darren
 
+    - new solvents?
+        => optimize multiple solvents at the same time? or one solvent per radius?
+
+
 
